@@ -1,29 +1,6 @@
 # deep-residual-neural-network-design
 Using PyTorch and TorchVision to develop and image classification pipeline via the design of a CNN architecture
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LW9jbkQZ)
-# Final Project
-
-This is a **group assignment**.
-
-## Code Implementation & Technical Report
-
-The final deliverables include a 4-page IEEE-format report, code implementation and a detailed GitHub readme file.
-
-The final project is due Wednesday, April 26 @ 11:59 PM. Find the complete [rubric](https://ufl.instructure.com/courses/469791/assignments/5497341) in the Canvas assignment.
-
-## Training Data
-
-The training data set is the same for every team in this course.
-
-You can download the training data from the Canvas page:
-
-* ["data_train.npy"](https://ufl.instructure.com/files/76267874/download?download_frd=1)
-* ["labels_train.npy"](https://ufl.instructure.com/files/76267876/download?download_frd=1)
-
-
-## Getting Started
-
 ### Dependencies
 
 1. Create a new conda environment `ml_experts` with the following dependencies.
